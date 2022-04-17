@@ -53,3 +53,6 @@ Severidade: {EVENT.SEVERITY}
 ID: {EVENT.ID}
 {TRIGGER.URL}
 ```
+## On media type of users, don't forget to put your telegram ID to receive messages 
+![image](https://user-images.githubusercontent.com/83617973/163733864-ebca1d96-3808-464a-850d-54a827d22832.png)
+
